@@ -14,7 +14,8 @@ public class Arthm {
 		
 		int min=(a<b)?a:b;  
 		System.out.println(min);  
-
+int min=(a<b)?a:b;  
+		System.out.println(min);  
 	}
 
 }
